@@ -1,1 +1,1 @@
-# demo-azure
+# mobile bootstrap
